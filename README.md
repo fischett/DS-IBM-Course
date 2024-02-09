@@ -13,7 +13,7 @@ This repository provides essential hands-on exercises and projects from the IBM 
 * Python & SQL: Get hands-on with these essential data science languages.
 * Jupyter Notebooks: Utilize this interactive environment for analysis and visualization.
 
-### Projects (3 examples)
+### Some of the Projects 
 
 1. Analyze diverse city data and predict stock market revenue.
 2. Build a dashboard to track flight reliability.
